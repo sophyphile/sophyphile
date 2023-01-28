@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/86a36b54-54a3-461b-b0f7-747eb957ac4f)
 
 
-<h2> Computer Science Degree Courses </h2>
+<h2> 📜 Computer Science Degree Courses </h2>
 
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/d77d2beda8444121b5efaf1f7a6136bd)
 - [MITx: 6.00.2x Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/3bf758acbe52470f8caaba805198c384)
