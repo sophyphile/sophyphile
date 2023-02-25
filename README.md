@@ -21,6 +21,12 @@ You can click the Preview link to take a look at your changes.
 - [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/86a36b54-54a3-461b-b0f7-747eb957ac4f)
 
 
+<h2> 🏗️ AWS Projects</h2>
+
+- [Building a Serverless Web App](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+  - Services: Amplify, Cognito, Lambda, DynamoDB, API Gateway
+
+
 <h2> 📜 Computer Science Degree Courses </h2>
 
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/d77d2beda8444121b5efaf1f7a6136bd)
