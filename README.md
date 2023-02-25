@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 - [Building a Serverless Web App](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
   - Services: Amplify, Cognito, Lambda, DynamoDB, API Gateway
+- [Contact Lens for Amazon Connect Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0d424f45-a4df-4818-ab35-5cf4fad6a66a/en-US)
+  - Services: Amazon Connect & Contact Lens
 
 
 <h2> 📜 Computer Science Degree Courses </h2>
