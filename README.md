@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <h2> IaC </h2>
 
 - <b>Terraform</b>
-  - [Terraform Labs](https://github.com/sophyphile/terraform-labs)
+  - [Labs](https://github.com/sophyphile/terraform-labs)
 
 <h2> 📈 Certifications</h2>
 
