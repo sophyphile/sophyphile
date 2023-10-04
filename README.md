@@ -8,17 +8,18 @@ You can click the Preview link to take a look at your changes.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>API Practice</b>
-  - [SOAP API](https://github.com/sophyphile/SOAP-API)
-- <b>Web Design</b>
-  - [Responsive React App](https://github.com/sophyphile/BD-React-Website)
-- <b>Blockchain</b>
-  - [ChainLink Developer Bootcamp - Hardhat (JS)](https://github.com/sophyphile/dev-bootcamp-hardhat)
 - <b>Generative AI</b>
   - [Langchain Cookbook]()
   - [Echo AI (Work-in-Progress)](https://github.com/sophyphile/echo-ai)
 - <b>Data Science</b>
   - [Streamlit Experiments](https://github.com/sophyphile/streamlit-experiments)
+- <b>Blockchain</b>
+  - [ChainLink Developer Bootcamp - Hardhat (JS)](https://github.com/sophyphile/dev-bootcamp-hardhat)
+- <b>API Practice</b>
+  - [SOAP API](https://github.com/sophyphile/SOAP-API)
+- <b>Web Design</b>
+  - [Responsive React App](https://github.com/sophyphile/BD-React-Website)
+
 
 <h2> IaC </h2>
 
