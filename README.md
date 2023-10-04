@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
   - [ChainLink Developer Bootcamp - Hardhat (JS)](https://github.com/sophyphile/dev-bootcamp-hardhat)
 - <b>Generative AI</b>
   - [Langchain Cookbook]()
+  - [Echo AI (Work-in-Progress)](https://github.com/sophyphile/echo-ai)
 - <b>Data Science</b>
   - [Streamlit Experiments](https://github.com/sophyphile/streamlit-experiments)
 
