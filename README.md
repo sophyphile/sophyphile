@@ -14,7 +14,15 @@ You can click the Preview link to take a look at your changes.
   - [Responsive React App](https://github.com/sophyphile/BD-React-Website)
 - <b>Blockchain</b>
   - [ChainLink Developer Bootcamp - Hardhat (JS)](https://github.com/sophyphile/dev-bootcamp-hardhat)
+- <b>Generative AI</b>
+  - [Langchain Cookbook]()
+- <b>Data Science</b>
+  - [Streamlit Experiments](https://github.com/sophyphile/streamlit-experiments)
 
+<h2> IaC </h2>
+
+- <b>Terraform</b>
+  - [Terraform Labs](https://github.com/sophyphile/terraform-labs)
 
 <h2> 📈 Certifications</h2>
 
@@ -44,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sami Ansari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/samiansari
 
