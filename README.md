@@ -4,7 +4,7 @@ sophyphile/sophyphile is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Hi, I'm Sami! <br/><a href="https://www.linkedin.com/in/samiansari/">Programmer & Philosopher</a></h1>
+<h1>Hi, I'm Sami! <br/><a href="https://www.linkedin.com/in/samiansari/">Cloud Engineer & Philosophy Graduate</a></h1>
 
 **Favourite quote** (likely misattributed): 
 
@@ -15,7 +15,6 @@ That is the tune to which I play my life, and it is a privilege to do so.
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Generative AI</b>
-  - [Langchain Cookbook]()
   - [Echo AI (Work-in-Progress)](https://github.com/sophyphile/echo-ai)
 - <b>Data Science</b>
   - [Streamlit Experiments](https://github.com/sophyphile/streamlit-experiments)
