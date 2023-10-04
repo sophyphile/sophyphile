@@ -4,7 +4,7 @@ sophyphile/sophyphile is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Hi, I'm Sami! <br/><a href="https://www.linkedin.com/in/samiansari/">Programmer</a></h1>
+<h1>Hi, I'm Sami! <br/><a href="https://www.linkedin.com/in/samiansari/">Programmer & Philosopher</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
