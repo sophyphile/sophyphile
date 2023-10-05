@@ -53,6 +53,7 @@ That is the tune to which I play my life, and it is a privilege to do so.
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/d77d2beda8444121b5efaf1f7a6136bd)
 - [MITx: 6.00.2x Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/3bf758acbe52470f8caaba805198c384)
 
+& more... :)
 
 <h2> 🤳 Connect with me:</h2>
 <!--
