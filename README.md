@@ -45,7 +45,8 @@ That is the tune to which I play my life, and it is a privilege to do so.
   - Services: Amplify, Cognito, Lambda, DynamoDB, API Gateway
 - [Contact Lens for Amazon Connect Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0d424f45-a4df-4818-ab35-5cf4fad6a66a/en-US)
   - Services: Amazon Connect & Contact Lens
-
+ 
+& many more...
 
 <h2> 📜 Computer Science Degree Courses </h2>
 
