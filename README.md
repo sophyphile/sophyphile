@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Hi, I'm Sami! <br/><a href="https://www.linkedin.com/in/samiansari/">Cloud Engineer & Philosophy Graduate</a></h1>
 
-**Favourite quote** (likely misattributed): 
+**Favourite (likely misattributed) quote**: 
 
 "I'm always learning" - Michelangelo near his death
 
