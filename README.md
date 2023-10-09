@@ -17,6 +17,7 @@ That is the tune to which I play my life, and it is a privilege to do so.
 - <b>Generative AI</b>
   - [Echo AI (Work-in-Progress)](https://github.com/sophyphile/echo-ai)
   - [LangChain Cookbook](https://github.com/sophyphile/langchain-cookbook)
+  - [Streamlit Doc Chat](https://github.com/sophyphile/streamlit-doc-chat)
 - <b>Data Science</b>
   - [Streamlit Experiments](https://github.com/sophyphile/streamlit-experiments)
 - <b>Blockchain</b>
