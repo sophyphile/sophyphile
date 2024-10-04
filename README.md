@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 "I'm always learning" - Michelangelo near his death
 
-That is the tune to which I play my life, and it is a privilege to do so.
-
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Generative AI</b>
