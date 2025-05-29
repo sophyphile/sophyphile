@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi, I'm Sami!</h1>
-<a href="https://www.linkedin.com/in/samiansari/">Software Engineering Team Lead & Philosophy Graduate</a>
+<h3><a href="https://www.linkedin.com/in/samiansari/">Software Engineering Team Lead & Philosophy Graduate</a></h3>
 
 **Favourite (likely misattributed) quote**: 
 
