@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 "I'm always learning" - Michelangelo near his death
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>👨‍💻 Software Development Projects:</h3>
 
 - <b>Generative AI</b>
   - [Echo AI (Work-in-Progress)](https://github.com/sophyphile/echo-ai)
@@ -26,19 +26,19 @@ You can click the Preview link to take a look at your changes.
   - [Responsive React App](https://github.com/sophyphile/BD-React-Website)
 
 
-<h2> IaC </h2>
+<h3> IaC </h3>
 
 - <b>Terraform</b>
   - [Labs](https://github.com/sophyphile/terraform-labs)
 
-<h2> 📈 Certifications</h2>
+<h3> 📈 Certifications</h3>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e0d6392f-8dd3-4a5e-ae6b-5c7f1defe39f)
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/295f2021-c914-4f34-9c38-173449c47fde)
 - [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/86a36b54-54a3-461b-b0f7-747eb957ac4f)
 - [AWS Certified AI Practitioner](https://www.credly.com/badges/1fbfacb1-8394-4c68-8a5c-009299be0c8f)
 
-<h2> 🏗️ AWS Labs</h2>
+<h3> 🏗️ AWS Labs</h3>
 
 - [Building a Serverless Web App](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
   - Services: Amplify, Cognito, Lambda, DynamoDB, API Gateway
@@ -47,14 +47,14 @@ You can click the Preview link to take a look at your changes.
  
 & many more...
 
-<h2> 📜 Computer Science Degree Courses </h2>
+<h3> 📜 Computer Science Degree Courses </h3>
 
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/d77d2beda8444121b5efaf1f7a6136bd)
 - [MITx: 6.00.2x Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/3bf758acbe52470f8caaba805198c384)
 
 & more...
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 <!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
