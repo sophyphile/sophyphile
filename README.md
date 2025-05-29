@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e0d6392f-8dd3-4a5e-ae6b-5c7f1defe39f)
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/295f2021-c914-4f34-9c38-173449c47fde)
 - [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/86a36b54-54a3-461b-b0f7-747eb957ac4f)
-
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/1fbfacb1-8394-4c68-8a5c-009299be0c8f)
 
 <h2> 🏗️ AWS Labs</h2>
 
