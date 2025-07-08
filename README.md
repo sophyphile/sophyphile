@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Hi, I'm Sami!</h1>
 <h3><a href="https://www.linkedin.com/in/samiansari/">Software Engineering Team Lead & Philosophy Graduate</a></h3>
 
-**Favourite (likely misattributed) quote**: "I'm always learning" - Michelangelo near his death
+"I'm always learning"
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
